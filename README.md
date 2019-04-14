@@ -10,4 +10,4 @@ A portfolio template that is responsive to multiple size displays.
 3. Deploy portfolio template page with github pages.
 
 ## Links
-[Responsive Portfolio Link](https://amcnulty.github.io/Responsive-Portfolio/ "Welcome! | About Aaron's Portfolio Page")
+[Responsive Portfolio Link](https://powderinthesky.github.io/Responsive-PortfolioV3/. "Welcome! | About Bryan's Portfolio Page")
